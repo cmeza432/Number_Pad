@@ -1,0 +1,2 @@
+# Number_Pad
+Number pad emulator, using frequncies to find which button is pressed. Given 7 different frequency values which represent four rows and three columns(4 x 3) number pad  and given number added frequencies which represent 12 numbers (0-9, *, #) use filter coefficients to find mean values of each frequency. The two highest mean values(total of 7) represent column and row index of button pressed.
